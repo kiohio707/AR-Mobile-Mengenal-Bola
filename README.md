@@ -4,7 +4,7 @@ Aplikasi mengenal nama - nama bola bagi anak SD kelas 1 - 3 dengan menerapkan Au
 ## Latar Belakang
 Memanfaatkan teknologi Augmented Reality sebagai jalur penyampaian materi serta pengenalan teknologi bagi siswa Sekolah Dasar.
 
-![Gambar AR Mengenal Bola](https://user-images.githubusercontent.com/80617774/132947974-057b2835-67b1-49b6-9014-57037569a159.jpg)
+![Gambar AR Mengenal Bola](https://github.com/kiohio707/AR-Mobile-Mengenal-Bola/blob/master/Hasil.JPG)
 
 ## Fitur
 1. Menampilkan gambar bola beserta nama yang dilengkapi dengan suara.
@@ -15,7 +15,7 @@ Memanfaatkan teknologi Augmented Reality sebagai jalur penyampaian materi serta 
 
 ## Publikasi Ilmiah
 Artikel ilmiah mengenai penelitian ini:
-https://www.researchgate.net/publication/352978582_APLIKASI_KASIR_MOBILE_BERBASIS_ANDROID_UNTUK_USAHA_MIKRO_DAN_KECIL
+https://www.researchgate.net/publication/352976752_Media_Pembelajaran_Mengenal_Olahraga_Bola_dengan_Menerapkan_Augmented_Reality_AR/citations?latestCitations=PB%3A356217098
 
 ## Cara Menginstall
 Download APK AR Mengenal Bola dari repository di atas, kemudian install
