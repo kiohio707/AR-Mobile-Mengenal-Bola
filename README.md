@@ -16,6 +16,3 @@ Memanfaatkan teknologi Augmented Reality sebagai jalur penyampaian materi serta 
 ## Publikasi Ilmiah
 Artikel ilmiah mengenai penelitian ini:
 https://www.researchgate.net/publication/352976752_Media_Pembelajaran_Mengenal_Olahraga_Bola_dengan_Menerapkan_Augmented_Reality_AR/citations?latestCitations=PB%3A356217098
-
-## Cara Menginstall
-Download APK AR Mengenal Bola dari repository di atas, kemudian install
